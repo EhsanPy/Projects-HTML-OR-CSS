@@ -1,0 +1,162 @@
+htmnl {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: radio;
+    src: url('../font/Radiotechnika\ Font.otf') format('opentype');
+}
+
+body {
+    background-image: url("../photo/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background_144627-24860.avif");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-attachment: fixed;
+}
+
+.li {
+    color: #B0BEC5;
+}
+
+#heder {
+    text-align: center;
+    font-family: radio;
+}
+
+main {
+    margin-top: 245px;
+}
+
+#code {
+    color: #9E9E9E;
+}
+
+p {
+    color: #fff;
+    font-size: 13px;
+}
+
+.sp {
+    font-size: 25px;
+}
+
+#wh {
+    color: #fff;
+}
+
+#lg {
+    width: 100%;
+    height: 50px;
+    background-color: #9E9E9E;
+    margin-top: 550px;
+}
+
+#pe {
+    display: inline;
+}
+
+#ya {
+    margin-top: 580px;
+    display: inline;
+}
+
+#one {
+    width: 300px;
+    height: 500px;
+    background-color: #424242;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+#tro {
+    width: 300px;
+    height: 500px;
+    background-color: #424242;
+    border-radius: 20px;
+    margin-top: px;
+    margin-left: 25px;
+}
+
+#tre {
+    width: 300px;
+    height: 500px;
+    background-color: #424242;
+    border-radius: 20px;
+    margin-top: -1050px;
+    margin-left: 25px;
+    margin-right: px;
+}
+
+.Box {
+    display: inline-block;
+}
+
+#Ehsan {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 360px;
+}
+
+#Ehsan2 {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 360px;
+}
+
+#Ehsan3 {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 360px;
+}
+
+#onetext {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.onetext1 {
+    line-height: 30px;
+}
+
+#day {
+    background-color: rgba(177, 176, 176, 0.2);
+    width: 800px;
+    height: 800px;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5555px;
+    backdrop-filter: blur(0px);
+}
+
+#ttt {
+    margin-top: -650px;
+    color: #388E3C;
+}
+
+.pde {
+    font-size: 20px;
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    text-align: justify;
+    text-align-last: center;
+}
+
+#fot {
+    width: 100%;
+    height: 50px;
+    background-color: #212121;
+    margin-top: 150px;
+}
+
+#icon {
+    margin-top: 5px;
+    margin-left: 20px;
+}
